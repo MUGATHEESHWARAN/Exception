@@ -20,5 +20,6 @@ public class Election {
 			System.out.println(ec);
 		}
 		System.out.println("Election End");
+		System.out.println("Finished Election");
 	}
 }
